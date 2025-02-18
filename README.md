@@ -1,3 +1,3 @@
 # Design-and-Analysis-of-Algorithm
 
-/home/Ian/asciinema/recordings
+/home/Ian/asciinema/recordings.cast
